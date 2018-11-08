@@ -23,7 +23,7 @@ $(function(){
 			});
 		}
 	}
-	openTab('README.md','jrdocs文档首页',false);
+	openTab('README.md','文档首页',false);
 	$('#tt').tabs({
 		onLoad:function(panel){ 
 			var plugin = panel.panel('options').title;

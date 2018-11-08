@@ -9,6 +9,6 @@
     "webpack": "^2.2.1"
   },
   "scripts": {
-      "build": "webpack --config webpack.config.js"
+    "build": "webpack --config webpack.config.js"
   }
 }
